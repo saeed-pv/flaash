@@ -1,0 +1,20 @@
+{
+  "name": "ای‌کام شاپ | فروشگاه اینترنتی",
+  "short_name": "ای‌کام شاپ",
+  "description": "خرید آنلاین هزاران کالای اورجینال با ارسال سریع به سراسر ایران",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#EF4056",
+  "icons": [
+    { "src": "icon.jpg", "sizes": "512x512", "type": "image/jpeg", "purpose": "any" },
+    { "src": "icon.jpg", "sizes": "192x192", "type": "image/jpeg", "purpose": "any" }
+  ],
+  "shortcuts": [
+    { "name": "شگفت‌انگیزها", "url": "./index.html#shop", "icons": [{ "src": "icon.jpg", "sizes": "192x192" }] }
+  ]
+}

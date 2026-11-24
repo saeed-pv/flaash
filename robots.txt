@@ -1,0 +1,8 @@
+# ای‌کام شاپ — robots.txt
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /checkout
+Disallow: /pay
+
+Sitemap: https://flaash.ir/sitemap.xml
